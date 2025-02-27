@@ -29,4 +29,4 @@ Si deseas ponerte en contacto conmigo, aquí tienes mis datos:
 
 Mi equipo favorito es **Nacional**.
 
-![Escudo Nacional](https://images.app.goo.gl/wumQxECJwt19Kvab8)
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Club_Nacional_de_Football_logo.svg/1200px-Club_Nacional_de_Football_logo.svg.png" alt="Escudo Nacional" width="200">
