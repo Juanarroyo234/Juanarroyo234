@@ -13,3 +13,10 @@
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.kernel.org/)  
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)  
 [![Git Bash](https://img.shields.io/badge/Git%20Bash-4F4F4F?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)  
+
+## 📞 Contacto  
+
+Si deseas ponerte en contacto conmigo, aquí tienes mis datos:  
+
+📧 **Correo:** [jearroyo27@ucatolica.edu.co](mailto:jearroyo27@ucatolica.edu.co)  
+📱 **Teléfono:** [3112009731](tel:3112009731)  
