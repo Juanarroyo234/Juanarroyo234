@@ -24,3 +24,9 @@ Si deseas ponerte en contacto conmigo, aquí tienes mis datos:
 ## 📊 Estadísticas de GitHub
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=juanarroyo234&show_icons=true&theme=radical)
+
+## ⚽ Mi Equipo Favorito: Nacional
+
+Mi equipo favorito es **Nacional**.
+
+![Escudo Nacional](https://images.app.goo.gl/wumQxECJwt19Kvab8)
