@@ -20,3 +20,7 @@ Si deseas ponerte en contacto conmigo, aquí tienes mis datos:
 
 📧 **Correo:** [jearroyo27@ucatolica.edu.co](mailto:jearroyo27@ucatolica.edu.co)  
 📱 **Teléfono:** [3112009731](tel:3112009731)  
+
+## 📊 Estadísticas de GitHub
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=juanarroyo234&show_icons=true&theme=radical)
